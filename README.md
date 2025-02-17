@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 About Me<br>I'm a passionate developer with experience in Node.js, Java, Angular, JavaScript, C, and C++. I love building scalable applications and solving complex problems through code. Currently, I'm diving into Data Analytics to expand my skill set and explore the power of data-driven decision-making.
+🚀 About Me<br>I'm a passionate develope with experience in Node.js, Java, Angular, JavaScript, C, C++, Excel, Tableau and PowerBi. I love building scalable applications and solving complex problems through code. Currently, I'm diving into Data Analytics to expand my skill set and explore the power of data-driven decision-making.
 
 
 ## 🌐 Socials:
